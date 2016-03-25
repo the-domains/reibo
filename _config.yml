@@ -1,0 +1,28 @@
+name: reibo
+favicon: null
+layout_spectrum: 0.7514369473792613
+typography_spectrum: 0.5833411864005029
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6150285499170423
+  lightness: 0.9846403247211128
+  saturation: 0.12741278810426593
+  rhythmicContrast: 0.48921454744413495
+purpose: []
